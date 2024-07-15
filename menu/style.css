@@ -1,0 +1,12 @@
+body{
+    margin: 00%;
+    padding: 00%;
+    background-color: rgb(219, 160, 93);
+}
+.box{
+    height: 100%;
+    width: 600px;
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+}
