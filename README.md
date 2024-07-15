@@ -1,1 +1,0 @@
-# kurja.github.io
